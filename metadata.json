@@ -1,0 +1,5 @@
+{
+  "name": "Aura AI Assistant",
+  "description": "A multi-functional AI assistant with voice commands, image generation, and video creation capabilities.",
+  "requestFramePermissions": ["microphone"]
+}
